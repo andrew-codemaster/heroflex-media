@@ -1,7 +1,32 @@
 .btn-main:hover {
   transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
-  transform: scale(1.1);
+  transform: scale(1.05);
   box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+.pricing-item:hover {
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  transform: scale(1.05);
+}
+
+.service-block:hover {
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  transform: scale(1.05);
+}
+
+.service-item:hover {
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  transform: scale(1.05);
+  box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+}
+
+div .post-item {
+  padding: 1rem;
+}
+
+div .post-item:hover {
+  transition: all 500ms cubic-bezier(0.075, 0.82, 0.165, 1);
+  transform: scale(1.05);
 }
 
 /* Glitch Effect */
