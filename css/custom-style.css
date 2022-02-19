@@ -59,6 +59,34 @@ div .post-item:hover {
   transform: scale(1.05);
 }
 
+.pricing div.col-md-12 {
+  padding: 0 0;
+}
+
+.pricing-table {
+  padding: 0;
+}
+
+.about-mission-vision .container-fluid {
+  padding: 0 10px;
+}
+
+.about-mission-vision {
+  padding: 0;
+}
+
+#vision {
+  height: 0;
+}
+
+.nav-item .active {
+  font-weight: bold;
+}
+
+.pricing-table .container-fluid {
+  padding-bottom: 80px;
+}
+
 /* Glitch Effect */
 .glitch {
   font-size: 48px;
